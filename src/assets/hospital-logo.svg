@@ -1,0 +1,6 @@
+<svg width="160" height="48" viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="48" rx="12" fill="#0ea5e9"/>
+  <path d="M34 13H26V21H18V29H26V37H34V29H42V21H34V13Z" fill="white"/>
+  <path d="M68 24C68 18.4772 63.5228 14 58 14H52V34H58C63.5228 34 68 29.5228 68 24ZM60 24C60 27.3137 57.3137 30 54 30H52V18H54C57.3137 18 60 20.6863 60 24Z" fill="white"/>
+  <text x="80" y="30" fill="white" font-family="Poppins, sans-serif" font-size="16" font-weight="700">Sevysis</text>
+</svg>
